@@ -1,0 +1,13 @@
+npm i -g typescript
+
+tsc --version
+
+touch tsconfig.json
+
+Create config with compiler options to target a version of JS
+
+ESNext is a name that always indicates the next version of JavaScript. The current ECMAScript version is ES2018.
+
+Can add community made types for library after adding lodash
+
+yarn add -D @types/lodash
